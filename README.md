@@ -11,7 +11,7 @@
 
 
 🙋‍♂️ **Raj Aryan** | 💻 Full Stack Developer | 🛸 India  
-[🌐 LinkedIn](https://linkedin.com/in/raj-aryan20) • [🐙 GitHub](https://github.com/yesaryann) • [🧠 LeetCode](https://leetcode.com/u/yesaryann)
+[🌐 LinkedIn](https://linkedin.com/in/raj-aryan20) • [🐙 GitHub](https://github.com/yesaryann) 
 
 ⚡️ *“I don’t trust code that works perfectly the first time — debugging is my cardio.”* ⚡️
 
