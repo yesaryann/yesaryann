@@ -1,4 +1,5 @@
-<h1 align="center">🌌 Hey, I'm <strong>Raj Aryan</strong> 👋</h1>
+<h1 align="center"> hey, I'm <strong>Raj Aryan</strong> ⚡</h1>
+
 
 <p align="center">
   🚀 Full Stack Developer • Web3 Builder • India  
@@ -7,7 +8,7 @@
   <a href="https://github.com/yesaryann">🐙 GitHub</a>
 </p>
 
-<p align="center"><em>“I don’t trust code that works perfectly the first time — debugging is my cardio.”</em></p>
+<p align="center"><em>“I don’t trust code that works perfectly the first time”</em></p>
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/ec6e701d5e31850db670217ea82f9f4757ce95be5313b17c3b6f57ea591887d5/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966" />
@@ -20,8 +21,7 @@
 I'm a 21-year-old full-stack dev obsessed with building sleek, meaningful products.  
 Currently unlocking new dimensions with **Web3**, **DevOps**, and scalable cloud systems.
 
-- 🚀 *SpaceX fanboy & aspiring astrophysicist*  
-- 🧩 *500+ LeetCode problems solved (and counting)*  
+- 🚀 * Talk to me about YC and startup ecosysytem *
 - 💡 *I build things that people actually want to use*  
 
 ---
